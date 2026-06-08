@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    font-family:Arial, sans-serif;
+
+    background:linear-gradient(
+        120deg,
+        #0d1b2a,
+        #5e6472,
+        #c76d5d,
+        #a6003d
+    );
+
+    color:white;
+}
+
+.container{
+    text-align: center;
+}
+
+h1{
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.days{
+    font-size:180px;
+    font-weight:bold;
+    margin:40px 0;
+}
+
+.time-box{
+    display:flex;
+    justify-content:center;
+    gap:50px;
+}
+
+.time-box span{
+    font-size:50px;
+    font-weight:bold;
+}
