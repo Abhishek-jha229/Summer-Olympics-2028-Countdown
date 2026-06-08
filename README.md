@@ -22,7 +22,12 @@ A simple countdown timer built using HTML, CSS, and JavaScript.
 index.html
 style.css
 script.js
+README.md
+screenshot.png
 ```
+## Preview
+
+![Countdown Timer](screenshot.png)
 
 ## ▶️ How to Run
 
