@@ -27,7 +27,7 @@ screenshot.png
 ```
 ## Preview
 
-![Countdown Timer](screenshot.png)
+![Countdown Timer](screenshot.png.png)
 
 ## ▶️ How to Run
 
