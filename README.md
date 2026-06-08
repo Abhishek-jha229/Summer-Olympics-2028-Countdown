@@ -29,6 +29,8 @@ screenshot.png
 
 ![Countdown Timer](screenshot.png.png)
 
+https://abhishek-jha229.github.io/Summer-Olympics-2028-Countdown/
+
 ## ▶️ How to Run
 
 1. Download the project.
